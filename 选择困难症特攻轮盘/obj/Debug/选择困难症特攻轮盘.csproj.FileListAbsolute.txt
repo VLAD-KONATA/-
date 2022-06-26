@@ -1,0 +1,10 @@
+C:\Users\杨明菲\source\repos\选择困难症特攻轮盘\选择困难症特攻轮盘\bin\Debug\选择困难症特攻轮盘.exe.config
+C:\Users\杨明菲\source\repos\选择困难症特攻轮盘\选择困难症特攻轮盘\bin\Debug\选择困难症特攻轮盘.exe
+C:\Users\杨明菲\source\repos\选择困难症特攻轮盘\选择困难症特攻轮盘\bin\Debug\选择困难症特攻轮盘.pdb
+C:\Users\杨明菲\source\repos\选择困难症特攻轮盘\选择困难症特攻轮盘\obj\Debug\选择困难症特攻轮盘.csproj.AssemblyReference.cache
+C:\Users\杨明菲\source\repos\选择困难症特攻轮盘\选择困难症特攻轮盘\obj\Debug\选择困难症特攻轮盘.Choice.resources
+C:\Users\杨明菲\source\repos\选择困难症特攻轮盘\选择困难症特攻轮盘\obj\Debug\选择困难症特攻轮盘.Properties.Resources.resources
+C:\Users\杨明菲\source\repos\选择困难症特攻轮盘\选择困难症特攻轮盘\obj\Debug\选择困难症特攻轮盘.csproj.GenerateResource.cache
+C:\Users\杨明菲\source\repos\选择困难症特攻轮盘\选择困难症特攻轮盘\obj\Debug\选择困难症特攻轮盘.csproj.CoreCompileInputs.cache
+C:\Users\杨明菲\source\repos\选择困难症特攻轮盘\选择困难症特攻轮盘\obj\Debug\选择困难症特攻轮盘.exe
+C:\Users\杨明菲\source\repos\选择困难症特攻轮盘\选择困难症特攻轮盘\obj\Debug\选择困难症特攻轮盘.pdb
